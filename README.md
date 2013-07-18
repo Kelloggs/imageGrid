@@ -7,7 +7,7 @@ Example:
 --------
 You have 4 folders containing images representing the frames of a video. If you want to merge them such that they are aligned on a 2 x 2 grid, you can use this script as
 
-{{{
+{
 python imageGrid 2 2 folder1 folder2 folder3 folder4
-}}}
+}
 
