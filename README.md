@@ -11,3 +11,7 @@ You have 4 folders containing images representing the frames of a video. If you 
 python imageGrid 2 2 folder1 folder2 folder3 folder4
 ```
 
+Caveats:
+--------
+- the images have to be of equal size
+
