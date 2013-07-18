@@ -13,5 +13,5 @@ python imageGrid 2 2 folder1 folder2 folder3 folder4
 
 Caveats:
 --------
-- the images have to be of equal size
+- The images have to be of equal size.
 
