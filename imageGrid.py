@@ -1,6 +1,6 @@
-import Image
-import ImageDraw
-import ImageFont
+from PIL import Image
+from PIL import ImageDraw
+from PIL import ImageFont
 import sys
 import os
 
